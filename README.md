@@ -1,7 +1,7 @@
 Controllino
 ===========
 
-Controllino es un controlador MIDI basado en Arduino UNO. En esta sección se encuentran tanto el código fuente del controlador, pero no las librerías.
+Controllino es un controlador MIDI basado en Arduino UNO. En esta sección se encuentran el código fuente del controlador, pero no las librerías necesarias.
 
 Para que el código funcione correctamente, hay que instalar las siguientes librerías:
 
