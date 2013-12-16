@@ -1,4 +1,3 @@
-
 // Changelog:
 // 20120813: cleanup
 // 2012????.Albert: implementation
